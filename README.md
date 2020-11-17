@@ -1,9 +1,9 @@
 # ImposterBot
 The imposter bot for the Among US - DK discord
 
-node.js
+Made in node.js
 
-Dependencies
+# Dependencies
 
 quick.db
 
