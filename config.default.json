@@ -1,0 +1,50 @@
+{ 
+    "token": "",
+    "twitch": {
+        "clientId": "",
+        "clientSecret": "",
+        "recheckRate": 120000
+    },
+    "globalPrefix": "!",
+    "colors": [
+        "Purple",
+        "Cyan",
+        "Black",
+        "Yellow",
+        "Green",
+        "Orange",
+        "White",
+        "Blue",
+        "Brown",
+        "Pink"
+    ],
+    "places": [
+        "cafeteria",
+        "electrical",
+        "communications",
+        "medbay",
+        "reactor",
+        "greenhouse",
+        "rocket",
+        "spawn"
+    ],
+    "statues": [
+        "Following [color] to [location]",
+        "Sabotaging Lights",
+        "Sabotaging Oxygen",
+        "Doing fake tasks",
+        "Watching cameras to find my next victim",
+        "Accusing [color] at the meeting",
+        "Just murdered [color]",
+        "Starting an emergency meeting to blame [color] for murder",
+        "[color] saw me vent",
+        "Getting ejected",
+        "Venting to [location]",
+        "Killing [color] at [location]",
+        "Snapping [color]'s neck",
+        "Stabbing [color]",
+        "Blaming [color] for venting",
+        "Hiding in Vents",
+        "Closing doors to hide the body"
+    ]
+}
